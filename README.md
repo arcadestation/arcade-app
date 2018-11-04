@@ -1,3 +1,0 @@
-## Arcade Station
-
-Coming soon...
