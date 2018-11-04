@@ -15,7 +15,7 @@
     "predeploy": "npm run build",
     "deploy": "gh-pages -d build"
   },
-  "homepage": "http://arcadestation.github.io/arcade-fm",
+  "homepage": "http://arcadestation.github.io/arcade-app",
   "eslintConfig": {
     "extends": "react-app"
   },
